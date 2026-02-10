@@ -1,0 +1,20 @@
+[
+    {
+        "email": "collector@email.com",
+        "username": "collector1",
+        "password": "1234",
+        "role": "collector"
+    },
+    {
+        "username": "admin",
+        "password": "TEMPI61PBKQW",
+        "role": "user",
+        "email": "tuscanojack9@gmail.com"
+    },
+    {
+        "username": "jack",
+        "password": "123456",
+        "role": "user",
+        "email": "jrtuscano@lbfinc.org"
+    }
+]
